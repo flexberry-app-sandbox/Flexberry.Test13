@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-test13-комната-e",
+  "editForm": "i-i-s-test13-комната-e",
+  "external": false,
+  "caption": "Комната",
+  "name": "IISTest13КомнатаL",
+  "className": "КомнатаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test13-комната",
+      "modelProjection": "КомнатаL"
+    }
+  ]
+}
